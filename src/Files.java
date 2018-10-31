@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-//Задача №15: Выгрузка данных из файла на экран
+/Задача №15: Выгрузка данных из файла на экран
 public class Files {
     public static void Read () {
         String s;
