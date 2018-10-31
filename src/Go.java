@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//испол.класс
 public class Go {
     public static void main(String[] args) {
         System.out.println("Ввести номер задания: " + "\n" + "Задача №15: Выгрузка данных из файла на экран " +
@@ -31,6 +32,4 @@ public class Go {
                     break;
         }
         }
-
-
     }

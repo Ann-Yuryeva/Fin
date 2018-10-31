@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+//Задача №16: Запись данных в файл
 public class Record_in_Files {
     public static void Rec () {
         String str;
