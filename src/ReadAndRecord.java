@@ -6,7 +6,7 @@ public class ReadAndRecord {
         Files out = new Files();
         System.out.println("Чтение файла: ");
         out.Read();
-        //
+
         Record_in_Files write =new Record_in_Files();
         System.out.println("Перезаписаем данные в файле: ");
         write.Rec();
